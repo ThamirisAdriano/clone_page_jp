@@ -1,0 +1,48 @@
+header{
+    background-color: white;
+    text-align: center;
+
+    
+}
+
+.logos{
+    display: flex;
+    padding: 20px;
+
+}
+
+.logo-jp{
+    width: 200px;
+    padding-left: 100px;
+}
+
+.logo-insta{
+    width: 40px;
+    padding: 20px;
+}
+
+.logo-face{
+    width: 40px;
+    padding: 20px;
+
+}
+
+.logo-yt{
+    width: 40px;
+    padding: 20px; 
+}
+
+body{
+    background-image: url(./assets/marista.jpg);
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+}
